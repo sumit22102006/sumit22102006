@@ -81,6 +81,9 @@ Some projects I work on:
   Youtube :
  👉 https://www.youtube.com/@SumitKumar-2210M
 
+ LinkedIn:
+ 👉 https://www.linkedin.com/in/sumit-kumar-1977023a1?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 ---
 
 ## 💡 Fun Fact
