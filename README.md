@@ -1,110 +1,106 @@
-## Hi there 👋
-
-# Hi 👋 I'm Sumit Kumar
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+<h3 align="center">🚀 Passionate Developer from India 🇮🇳</h3>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👨‍💻 About Me
+
+* 🌱 Currently learning **MERN Stack**
+* 💡 Love building **real-world full stack apps**
+* 🔥 Focused on **Backend + APIs + Performance**
+* 🎯 Goal: Become a **Top Software Developer**
+* 📫 Reach me: **[your-email@example.com](mailto:your-email@example.com)**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/sumit22102006" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🛠️ Tech Stack
 
-🎓 Computer Science Student  
-💻 Passionate about Web Development and the MERN Stack  
-🌱 Currently learning **React, Node.js, and MongoDB**  
-⚡ Interested in **Full Stack Development**  
-🛠 Building web applications and REST APIs  
-📚 Always learning new technologies and improving my coding skills
+#### 💻 Languages
 
----
+![JavaScript](https://skillicons.dev/icons?i=js)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
 
-## 🛠 Tech Stack
+#### 🚀 Frameworks & Tools
 
-### Programming & Development
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![react](https://skillicons.dev/icons?i=react)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![express](https://skillicons.dev/icons?i=express)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![vscode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## ⚙️ Tools & Technologies
-
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-green?style=for-the-badge&logo=mongodb)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit22102006&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumit22102006&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit22102006&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit22102006&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit22102006&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sumit22102006&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/sumit22102006/sumit22102006/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🚀 Projects
+### 🔥 Projects
 
-💻 I build web applications using **React, Node.js, Express, and MongoDB**.
-
-Some projects I work on:
-
-- 📚 **LMS Clone** – Learning management system UI clone
-- 🔗 **REST API Projects** – Backend APIs using Express.js
-- 🎨 **React UI Projects** – Responsive frontend interfaces with Tailwind CSS
+* 🚀 Full Stack Hackathon Project
+* 🛒 E-commerce Backend API
+* 📚 Student Management System
+* 💬 Chat App (Coming Soon)
 
 ---
 
-## 🌐 Connect With Me
+### 💡 Dev Quote
 
-🐙 GitHub:  
-👉 https://github.com/sumit22102006
-
-  Youtube :
- 👉 https://www.youtube.com/@SumitKumar-2210M
-
- LinkedIn:
- 👉 https://www.linkedin.com/in/sumit-kumar-1977023a1?utm_source=share_via&utm_content=profile&utm_medium=member_android
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-## 💡 Fun Fact
+### ⚡ Fun Fact
 
-⚡ I enjoy building real-world web applications and continuously improving my development skills.
+> I don't just write code… I build solutions 🚀
 
 ---
-
-⭐ **Thanks for visiting my profile!**
-
-<!--
-**sumit22102006/sumit22102006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
