@@ -77,9 +77,8 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumit22102006/sumit22102006/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ### 🔥 Projects
