@@ -10,13 +10,14 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👨‍💻 About Me
-
-* 🌱 Currently learning **MERN Stack**
-* 💡 Love building **real-world full stack apps**
-* 🔥 Focused on **Backend + APIs + Performance**
-* 🎯 Goal: Become a **Top Software Developer**
-* 📫 Reach me: **[sumitkumaryadavanshi@gmail.com](mailto:your-email@example.com)**
+## 👨‍💻 About Me
+- 👨‍💻 Full Stack Developer specializing in **MERN Stack**
+- 💻 Currently exploring **Backend + APIs + Performance**
+- 🔭 Building **real-world full stack apps**
+- 🌱 Goal: Become a **Top Software Developer**
+- 🧠 Passionate about **learning new things & solving problems**
+- 🤝 Open to **collaboration and open source projects**
+- ⚡ Fun fact: I don't just write code… I build solutions 🚀
 
 ---
 
@@ -36,25 +37,30 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![cpp](https://skillicons.dev/icons?i=cpp)
+### 🎨 Frontend
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
-
-#### 🚀 Frameworks & Tools
-
+![js](https://skillicons.dev/icons?i=js)
 ![react](https://skillicons.dev/icons?i=react)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### ⚙️ Backend
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
 ![express](https://skillicons.dev/icons?i=express)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
 ![mongodb](https://skillicons.dev/icons?i=mongodb)
+![cpp](https://skillicons.dev/icons?i=cpp)
+
+### 🧰 Tools
 ![git](https://skillicons.dev/icons?i=git)
 ![github](https://skillicons.dev/icons?i=github)
 ![vscode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+### 📈 Contribution Activity
+![](https://img.shields.io/badge/Thank--You-ff69b4.svg) ⭐️ If you like my work, consider giving a star to my repositories!
 
 ---
 
@@ -81,12 +87,12 @@
 </p>
 ---
 
-### 🔥 Projects
+## 🚀 Projects
 
-* 🚀 Full Stack Hackathon Project
-* 🛒 E-commerce Backend API
-* 📚 Student Management System
-* 💬 Chat App (Coming Soon)
+1. **Full Stack Hackathon Project**
+2. **E-commerce Backend API**
+3. **Student Management System**
+4. **Chat App** (Coming Soon)
 
 ---
 
@@ -95,11 +101,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
-
-### ⚡ Fun Fact
-
-> I don't just write code… I build solutions 🚀
 
 ---
