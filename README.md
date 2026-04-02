@@ -16,7 +16,7 @@
 * 💡 Love building **real-world full stack apps**
 * 🔥 Focused on **Backend + APIs + Performance**
 * 🎯 Goal: Become a **Top Software Developer**
-* 📫 Reach me: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me: **[sumitkumaryadavanshi@gmail.com](mailto:your-email@example.com)**
 
 ---
 
