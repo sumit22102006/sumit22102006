@@ -11,27 +11,28 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
+
 - 👨‍💻 Full Stack Developer specializing in **MERN Stack**
-- 💻 Currently exploring **Backend + APIs + Performance**
-- 🔭 Building **real-world full stack apps**
-- 🌱 Goal: Become a **Top Software Developer**
-- 🧠 Passionate about **learning new things & solving problems**
-- 🤝 Open to **collaboration and open source projects**
-- ⚡ Fun fact: I don't just write code… I build solutions 🚀
+- 💻 Exploring **Backend, APIs & Performance Optimization**
+- 🔭 Building **real-world scalable applications**
+- 🌱 Goal: Become a **Top Software Engineer**
+- 🧠 Love solving **real-world problems**
+- 🤝 Open to **collaboration & open source**
+- ⚡ Fun fact: *I don’t just write code, I build solutions 🚀*
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/sumit22102006" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/your-linkedin" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -40,57 +41,75 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-<p align='center' >
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
-![js](https://skillicons.dev/icons?i=js)
-![react](https://skillicons.dev/icons?i=react)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![express](https://skillicons.dev/icons?i=express)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-![cpp](https://skillicons.dev/icons?i=cpp)
-
-### 🧰 Tools
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
-![vscode](https://skillicons.dev/icons?i=vscode)
-
-
-
----
-
-
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit22102006&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp&theme=dark" />
 </p>
 
+### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit22102006&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit22102006&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🚀 Featured Projects
 
 <p align="center">
-<img src="https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/sumit22102006">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit22102006&repo=your-repo-name&theme=tokyonight" />
+  </a>
 </p>
----
-
-
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit22102006&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit22102006&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit22102006&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+🚀 Building Scalable MERN Apps <br>
+⚡ Improving Backend Performance <br>
+📦 Learning System Design <br>
+🌍 Contributing to Open Source
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> 💻
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <b>Sumit Kumar</b> | Made with ❤️
+</p>
