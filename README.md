@@ -40,6 +40,7 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
+<p align="center">
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 ![js](https://skillicons.dev/icons?i=js)
@@ -56,6 +57,8 @@
 ![git](https://skillicons.dev/icons?i=git)
 ![github](https://skillicons.dev/icons?i=github)
 ![vscode](https://skillicons.dev/icons?i=vscode)
+
+</p>
 
 ---
 
