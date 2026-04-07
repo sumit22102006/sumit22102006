@@ -25,14 +25,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/sumit22102006" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sumit22102006">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -57,28 +57,33 @@
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Analytics (Premium)
 
+## 🚀 GitHub Stats Dashboard
 <p align="center">
-  <a href="https://github.com/sumit22102006">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit22102006&repo=your-repo-name&theme=tokyonight" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumit22102006&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit22102006&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit22102006&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
+---
+
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit22102006&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit22102006&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+## 💻 Most Used Languages + Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit22102006&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit22102006&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumit22102006&theme=tokyonight" />
 </p>
 
 ---
@@ -110,6 +115,19 @@
 
 ---
 
+## ⭐ Support Me
+
 <p align="center">
-  ⭐ From <b>Sumit Kumar</b> | Made with ❤️
+⭐ If you like my work, consider giving a star! <br><br>
+<a href="https://github.com/sumit22102006">
+  <img src="https://img.shields.io/badge/THANKS-000?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🌊 Footer Wave
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
