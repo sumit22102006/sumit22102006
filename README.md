@@ -82,8 +82,8 @@
 ## 💻 Most Used Languages & Stats
 
 <p align="center">
-  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit22102006&theme=tokyonight" />
-  <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumit22102006&theme=tokyonight" />
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit22102006&theme=tokyonight" />
+  <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumit22102006&theme=tokyonight" />
 </p>
 
 
