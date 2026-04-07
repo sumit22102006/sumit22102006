@@ -40,7 +40,7 @@
 
 
 
-<p align="center">
+
   <a href="./Sumit-kumar-resume-1.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
