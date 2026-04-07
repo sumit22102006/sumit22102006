@@ -96,33 +96,7 @@
 
 ---
 
-## 🎯 Current Focus
 
-<p align="center">
-🚀 Building Scalable MERN Apps <br>
-⚡ Improving Backend Performance <br>
-📦 Learning System Design <br>
-🌍 Contributing to Open Source
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> 💻
-</p>
-
----
-
-## ⭐ Support Me
-
-<p align="center">
-⭐ If you like my work, consider giving a star! <br><br>
-<a href="https://github.com/sumit22102006">
-  <img src="https://img.shields.io/badge/THANKS-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
 
 ---
 
