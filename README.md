@@ -86,10 +86,7 @@
   <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumit22102006&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=sumit22102006&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit22102006&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 ---
 
 ## 🐍 Contribution Snake
