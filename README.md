@@ -34,6 +34,11 @@
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
+<!-- ✅ Resume Button Added -->
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive"/>
+</a>
 </p>
 
 ---
@@ -79,13 +84,13 @@
 </p>
 
 ---
+
 ## 💻 Most Used Languages & Stats
 
 <p align="center">
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumit22102006&theme=tokyonight" />
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumit22102006&theme=tokyonight" />
 </p>
-
 
 ---
 
@@ -94,10 +99,6 @@
 <p align="center">
   <img src="https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-
 
 ---
 
