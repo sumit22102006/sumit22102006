@@ -40,12 +40,13 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
+<p align='center' >
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
 ![js](https://skillicons.dev/icons?i=js)
 ![react](https://skillicons.dev/icons?i=react)
 ![tailwind](https://skillicons.dev/icons?i=tailwind)
+</p>
 
 ### ⚙️ Backend
 ![nodejs](https://skillicons.dev/icons?i=nodejs)
