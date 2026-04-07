@@ -59,8 +59,7 @@
 
 ---
 
-### 📈 Contribution Activity
-![](https://img.shields.io/badge/Thank--You-ff69b4.svg) ⭐️ If you like my work, consider giving a star to my repositories!
+
 
 ---
 
@@ -87,19 +86,7 @@
 </p>
 ---
 
-## 🚀 Projects
 
-1. **Full Stack Hackathon Project**
-2. **E-commerce Backend API**
-3. **Student Management System**
-4. **Chat App** (Coming Soon)
 
 ---
 
-### 💡 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
