@@ -36,9 +36,9 @@
 </a>
 
 <!-- ✅ Resume Button Added -->
----
 
-# 📄 Resume
+
+
 
 <p align="center">
   <a href="./Sumit-kumar-resume-1.pdf" target="_blank">
