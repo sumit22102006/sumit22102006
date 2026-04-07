@@ -28,26 +28,25 @@
 <a href="https://github.com/sumit22102006">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://linkedin.com/in/your-linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<!-- ✅ Resume Button Added -->
+<!-- ✅ View Resume -->
+<a href="https://drive.google.com/file/d/1Lx-7Z4WYVIwS53vDwrh1Vl5e8wbYeB1g/view" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
+<!-- ✅ Download Resume -->
+<a href="https://drive.google.com/uc?export=download&id=1Lx-7Z4WYVIwS53vDwrh1Vl5e8wbYeB1g">
+  <img src="https://img.shields.io/badge/Download%20Resume-28a745?style=for-the-badge&logo=google-drive&logoColor=white"/>
+</a>
 
-
-
-
-  <a href="./Sumit-kumar-resume-1.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-
-  <a href="./Sumit-kumar-resume-1.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-28a745?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
 </p>
 
 ---
