@@ -36,10 +36,21 @@
 </a>
 
 <!-- ✅ Resume Button Added -->
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive"/>
-</a>
+---
+
+# 📄 Resume
+
+<p align="center">
+  <a href="./Sumit-kumar-resume-1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+
+  <a href="./Sumit-kumar-resume-1.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-28a745?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
 </p>
+
+---
 
 ---
 
