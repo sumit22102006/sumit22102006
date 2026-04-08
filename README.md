@@ -42,10 +42,7 @@
   <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<!-- ✅ Download Resume -->
-<a href="https://drive.google.com/uc?export=download&id=1Lx-7Z4WYVIwS53vDwrh1Vl5e8wbYeB1g">
-  <img src="https://img.shields.io/badge/Download%20Resume-28a745?style=for-the-badge&logo=google-drive&logoColor=white"/>
-</a>
+
 
 </p>
 
