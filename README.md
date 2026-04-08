@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;🚀 Passionate Developer from India 🇮🇳;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 
