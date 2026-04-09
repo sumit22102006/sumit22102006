@@ -6,7 +6,17 @@
 
 ---
 
+<div align="center">
+<img src="https://img.shields.io/badge/🚀%20Open%20To%20Work-7c3aed?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=atulXdev&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20India-4c1d95?style=for-the-badge"/>
+</div>
+
+---
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 ## 👨‍💻 About Me
 
