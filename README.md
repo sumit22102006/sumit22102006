@@ -46,7 +46,7 @@
 </a>
 
 <!-- ✅ View Resume -->
-<a href="https://drive.google.com/file/d/1Lx-7Z4WYVIwS53vDwrh1Vl5e8wbYeB1g/view" target="_blank">
+<a href="https://drive.google.com/file/d/1Lx-7Z4WYVIwS53vDwrh1Vl5e8wbYeB1g/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
